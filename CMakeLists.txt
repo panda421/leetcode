@@ -9,3 +9,4 @@ add_executable(278-first-bad-version leetcode/editor/cn/278-first-bad-version.cp
 add_executable(322-coin-change leetcode/editor/cn/322-coin-change.cpp)
 add_executable(374-guess-number-higher-or-lower leetcode/editor/cn/374-guess-number-higher-or-lower.cpp)
 add_executable(852-peak-index-in-a-mountain-array leetcode/editor/cn/852-peak-index-in-a-mountain-array.cpp)
+add_executable(877-stone-game leetcode/editor/cn/877-stone-game.cpp)
