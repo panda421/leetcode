@@ -11,5 +11,4 @@ add_executable(374-guess-number-higher-or-lower leetcode/editor/cn/374-guess-num
 add_executable(852-peak-index-in-a-mountain-array leetcode/editor/cn/852-peak-index-in-a-mountain-array.cpp)
 add_executable(877-stone-game leetcode/editor/cn/877-stone-game.cpp)
 add_executable(401-binary-watch leetcode/editor/cn/401-binary-watch.cpp)
-add_executable(剑指 Offer 15-er-jin-zhi-zhong-1de-ge-shu-lcof "leetcode/editor/cn/剑指 Offer 15-er-jin-zhi-zhong-1de-ge-shu-lcof.cpp")
-add_executable(剑指 Offer 38-zi-fu-chuan-de-pai-lie-lcof "leetcode/editor/cn/剑指 Offer 38-zi-fu-chuan-de-pai-lie-lcof.cpp")
+add_executable(1791-find-center-of-star-graph leetcode/editor/cn/1791-find-center-of-star-graph.cpp)
