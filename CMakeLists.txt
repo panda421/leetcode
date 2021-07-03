@@ -12,3 +12,5 @@ add_executable(852-peak-index-in-a-mountain-array leetcode/editor/cn/852-peak-in
 add_executable(877-stone-game leetcode/editor/cn/877-stone-game.cpp)
 add_executable(401-binary-watch leetcode/editor/cn/401-binary-watch.cpp)
 add_executable(1791-find-center-of-star-graph leetcode/editor/cn/1791-find-center-of-star-graph.cpp)
+add_executable(451-sort-characters-by-frequency leetcode/editor/cn/451-sort-characters-by-frequency.cpp)
+add_executable(349-intersection-of-two-arrays leetcode/editor/cn/349-intersection-of-two-arrays.cpp)
