@@ -15,3 +15,4 @@ add_executable(1791-find-center-of-star-graph leetcode/editor/cn/1791-find-cente
 add_executable(451-sort-characters-by-frequency leetcode/editor/cn/451-sort-characters-by-frequency.cpp)
 add_executable(349-intersection-of-two-arrays leetcode/editor/cn/349-intersection-of-two-arrays.cpp)
 add_executable(645-set-mismatch leetcode/editor/cn/645-set-mismatch.cpp)
+add_executable(1711-count-good-meals leetcode/editor/cn/1711-count-good-meals.cpp)
