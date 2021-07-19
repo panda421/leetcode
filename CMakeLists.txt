@@ -16,3 +16,4 @@ add_executable(451-sort-characters-by-frequency leetcode/editor/cn/451-sort-char
 add_executable(349-intersection-of-two-arrays leetcode/editor/cn/349-intersection-of-two-arrays.cpp)
 add_executable(645-set-mismatch leetcode/editor/cn/645-set-mismatch.cpp)
 add_executable(1711-count-good-meals leetcode/editor/cn/1711-count-good-meals.cpp)
+add_executable(1877-minimize-maximum-pair-sum-in-array leetcode/editor/cn/1877-minimize-maximum-pair-sum-in-array.cpp)
